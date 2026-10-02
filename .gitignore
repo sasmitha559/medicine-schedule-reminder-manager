@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.log
+medicine_manager.db
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+bin/
+out/
+.DS_Store
+Thumbs.db
